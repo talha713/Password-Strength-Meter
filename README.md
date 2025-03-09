@@ -29,7 +29,7 @@ A strong password should:
    ```
 3. Run the Streamlit app:
    ```bash
-   streamlit run password_strength_meter.py
+   streamlit run app.py
    ```
 
 ## 📌 Usage
